@@ -27,25 +27,6 @@ The dataset used for this project includes the following attributes:
 - Region: The region where the individual resides.
 - Charges: The actual insurance cost (target variable).
 
-## Installation
-To run this project locally, follow these steps:
-
-1. Clone the repository:
-   
-   git clone https://github.com/your-username/medical-insurance-predictor.git
-   cd medical-insurance-predictor
-   ```
-
-2. Install the required dependencies:
-  
-   pip install -r requirements.txt
-   ```
-
-3. Run the Jupyter Notebook for training and evaluation:
- 
-   jupyter notebook
-   ```
-
 ## Usage
 1. Load the dataset and preprocess it.
 2. Train the machine learning model (e.g., Linear Regression, Random Forest, etc.).
